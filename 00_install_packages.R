@@ -8,6 +8,7 @@
 # Install required R packages
 ####################################################
 
+# install.packages('pacman')
 library("pacman")
 p_load("terra")
 p_load("sf")
